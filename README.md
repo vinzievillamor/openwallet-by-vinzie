@@ -1,2 +1,2 @@
 # openwallet-by-vinzie
-free web-based wallet application
+Powerful web-based wallet application
